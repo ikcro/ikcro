@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ikcro</h1>
 <h3 align="center">A passionate Back-end developer from China</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/ikcro/count.svg) 
+<div align="center">
+  <a href="https://github.io/ikcro/">
+  <img  src="https://profile-counter.glitch.me/ikcro/count.svg"
+       alt="snake" /></a>
+</div>
 
 <div align="center">
   <a href="https://github.io/ikcro/">
@@ -24,7 +28,11 @@ Here are some ideas to get you started:
        alt="snake" /></a>
 </div>
 
-[![ikcro](https://github-profile-trophy.vercel.app/?username=ikcro)](https://github.com/ikcro/ikcro)
+<div align="center">
+  <a href="https://github.io/ikcro/">
+  <img  src="https://github-profile-trophy.vercel.app/?username=ikcro"
+       alt="snake" /></a>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>

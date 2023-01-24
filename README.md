@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **ikcro/ikcro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/ikcro/count.svg) 
+
+## GitHub Stats
+
+[![ikcro's GitHub stats](https://github-readme-stats-ikcro.vercel.app/api?username=ikcro&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/ikcro)
+
+## Languages
+
+[![ikcro](https://github-readme-stats-ikcro.vercel.app/api/top-langs/?username=ikcro)](https://github.com/ikcro)
+
+

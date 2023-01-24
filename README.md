@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Back-end developer from China</h3>
 
 <div align="center">
-  <a href="https://github.io/ikcro/">
+  <a href="https://github.com/ikcro/">
   <img  src="https://profile-counter.glitch.me/ikcro/count.svg"
        alt="snake" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.io/ikcro/">
+  <a href="https://github.com/ikcro/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.io/ikcro/">
+  <a href="https://github.com/ikcro/">
   <img  src="https://github-profile-trophy.vercel.app/?username=ikcro"
        alt="snake" /></a>
 </div>

@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/ikcro/count.svg) 
 
+<div align="center">
+  <a href="https://github.io/ikcro/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 [![ikcro](https://github-profile-trophy.vercel.app/?username=ikcro)](https://github.com/ikcro/ikcro)
 
 
